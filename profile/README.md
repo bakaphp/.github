@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.prod.website-files.com/66c9f056ff6b7f7ba51cdf21/66ccb2a881e7036ab59136f2_Logo_Kanvas_3.png" alt="Kanvas Logo" style="width: 50%; height: auto;">
+<img src="https://cdn.prod.website-files.com/66c9f056ff6b7f7ba51cdf21/66ccb2a881e7036ab59136f2_Logo_Kanvas_3.png" alt="Kanvas Logo" style="width: 30%; height: auto;">
     <br />
     <br />
 </p>
